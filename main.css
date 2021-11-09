@@ -7,3 +7,7 @@ body {
 .images {
     background-color: #99b5dd;
 }
+
+.images img {
+    border:5px solid black;
+}
