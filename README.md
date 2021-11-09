@@ -1,2 +1,0 @@
-# rodrigohdzber.github.io
-Web
